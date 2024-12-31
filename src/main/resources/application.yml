@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://root:211119@mongodb.p77eg.mongodb.net/?retryWrites=true&w=majority&appName=mongodb
+      database: mongodb
